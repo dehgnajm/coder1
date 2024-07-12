@@ -1,0 +1,63 @@
+﻿study,study.name,group.name,year,Title,Pub_type,L1 L2,L3,TransferModels,assessmentType,instructional context,educational level,tasks,analysis type,Number,Mean,SD
+1,Hopp,EX,2019,Cross-linguistic influence in the child third language acquisition of grammar: Sentence comprehension and production among Turkish-German and German learners of English. ,1,TurkishGerman,English,TPM,SVO,1,1,Repetition,1,31,1.5,1.5
+1,Hopp,C,2019,Cross-linguistic influence in the child third language acquisition of grammar: Sentence comprehension and production among Turkish-German and German learners of English. ,1,TurkishGerman,English,TPM,,1,1,,1,31,1.5,1.5
+2,Jaensch,EX,2011,L3 acquisition of German adjectival inflection: A generative account.,1,JapaneseEnglish,German,DM,AdjectivalInflections,4,3,OPTGapFilling,2,12,18.2,0.69
+2,Jaensch,C,2011,L3 acquisition of German adjectival inflection: A generative account.,1,JapaneseEnglish,German,DM,,4,3,,2,9,12.6,0.6
+3,Rothman,EX,2011,L3 syntactic transfer selectivity and typological determinacy: The typological primacy model.,1,ItalianEnglishSpanish,BrazilianPortoguesSpanish,TPM,DeterminerPhraseAdjectivalSemantics,4,3,ContextBasedCollocationSemanticInterpretationTask,1,27,4.3,1.98
+3,Rothman,C,2011,L3 syntactic transfer selectivity and typological determinacy: The typological primacy model.,1,ItalianEnglishSpanish,BrazilianPortoguesSpanish,TPM,,4,3,,1,33,4.27,2.18
+4,Montrul et al.,EX,2011,Clitics and object expression in the L3 acquisition of Brazilian Portuguese: Structural similarity matters for transfer.,1,EnglishSpanish,BrazilianPortogues,TPM,ObjectExpressionClitics,4,3,GJTOPT,1,36,22.78,1.98
+4,Montrul et al.,C,2011,Clitics and object expression in the L3 acquisition of Brazilian Portuguese: Structural similarity matters for transfer.,1,EnglishSpanish,BrazilianPortogues,TPM,,4,3,,1,18,31.54,1.4
+5,Rothman&Cabrelli,EX,2010,What variables condition syntactic transfer? A look at the L3 initial state. ,1,EnglishSpanishFrenchItalian,FrenchItalian,L2SF,OvertPronoun,4,3,GJTMatching,1,31,30,1.45
+5,Rothman&Cabrelli,C,2010,What variables condition syntactic transfer? A look at the L3 initial state. ,1,EnglishSpanishFrenchItalian,FrenchItalian,L2SF,,4,3,,1,30,30,1.43
+6,Tavakol&Jabbari,EX,2014,Cross-linguistic influence in third Language (L3) and fourth Language (L4) acquisition of the syntactic licensing of subject pronouns and object verb property: A case study. ,1,PersianEnglish,ItalianGerman,L2SF,SubjectPronounObjectVerbProperty,4,3,N/A,2,1,25,0.06
+6,Tavakol&Jabbari,C,2014,Cross-linguistic influence in third Language (L3) and fourth Language (L4) acquisition of the syntactic licensing of subject pronouns and object verb property: A case study. ,1,PersianEnglish,ItalianGerman,L2SF,,4,3,,2,N/A,N/A,N/A
+7,Hermas,EX,2014,Multilingual transfer: L1 morphosyntax in L3 English. ,1,ArabicFrench,English,L1Transfer,SubjectVerbInversion,4,3,AJTPT,1,14,1.08,1.08
+7,Hermas,C,2014,Multilingual transfer: L1 morphosyntax in L3 English. ,1,ArabicFrench,English,L1Transfer,,4,3,,1,65,1.07,2.34
+8,Fallah&jabbari,EX,2018,L3 acquisition of English attributive adjectives: Dominant language of communication matters for syntactic cross-linguistic influence. ,1,PersianMazandarani,English,PLCM,AttributiveAdjectives,3,1,GJT,2,30,0.55,0.55
+8,Fallah&jabbari,C,2018,L3 acquisition of English attributive adjectives: Dominant language of communication matters for syntactic cross-linguistic influence. ,1,PersianMazandarani,English,PLCM,,3,1,,2,34,0.58,0.58
+9,Mollaie et al.,EX,2016,The Acquisition of French (L3) Wh-question by Persian (L1) learners of English (L2) as a foreign language: Optimality theory. ,1,PersianEnglish,French,L1Transfer,Whquestions,4,3,GJTTranslation,1,30,1.48,1.48
+9,Mollaie et al.,C,2016,The Acquisition of French (L3) Wh-question by Persian (L1) learners of English (L2) as a foreign language: Optimality theory. ,1,PersianEnglish,French,L1Transfer,,4,3,,1,30,1.45,1.45
+10,Rothman,EX,2010,On the typological economy of syntactic transfer: Word order and relative clause high/low attachment preference in L3 Brazilian Portuguese. ,1,EnglishSpanish,BrazilianPortogues,TPM,WordOrderRelativeClause,4,3,GJT,1,31,1.43,1.43
+10,Rothman,C,2010,On the typological economy of syntactic transfer: Word order and relative clause high/low attachment preference in L3 Brazilian Portuguese. ,1,EnglishSpanish,BrazilianPortogues,TPM,,4,3,,1,30,0.26,0.26
+11,Mykhaylyk e,EX,2015,The Linguistic Proximity Model: The case of verb-second revisited. ,1,NorwegianRussian,English,LPM,AdverbVerbWordOrderSubjectAuxiliaryInversion,2,2,GJT,1,66,0.26,0.26
+11,Mykhaylyk e,C,2015,The Linguistic Proximity Model: The case of verb-second revisited. ,1,NorwegianRussian,English,LPM,,2,2,,1,20,0.2,0.2
+12,Fallah et al.,EX,2016,Source (s) of syntactic cross-linguistic influence (CLI): The case of L3 acquisition of English possessives by Mazandarani–Persian bilinguals. ,1,MazandaraniPersian,English,PLCM,AttributivePossessives,2,1,GJTOralImmitation,2,24,0.45,0.45
+12,Fallah et al.,C,2016,Source (s) of syntactic cross-linguistic influence (CLI): The case of L3 acquisition of English possessives by Mazandarani–Persian bilinguals. ,1,MazandaraniPersian,English,PLCM,,2,1,,2,7,0.2,0.2
+13,KopeÄkovÃ¡&wremble,EX,2022,Phonological cross-linguistic influence at the initial stages of L3 acquisition.,1,GermanEnglishPolish,PolishGerman,LPMSM,RhoticSoundswFinalObstruentDevoicing,2,1,Repetition,2,35,0.18,0.18
+13,KopeÄkovÃ¡&wremble,C,2022,Phonological cross-linguistic influence at the initial stages of L3 acquisition.,1,GermanEnglishPolish,PolishGerman,LPMSM,,2,1,,2,10,0.01,0.01
+14,Kolb et al.,EX,2022,Crosslinguistic influence in child L3 English: An empirical study on Russian-German heritage bilinguals. ,1,RussianGermanEnglish,English,TPM,SubjectauxiliaryInversion,2,1,AJT,2,66,0.05,0.05
+14,Kolb et al.,C,2022,Crosslinguistic influence in child L3 English: An empirical study on Russian-German heritage bilinguals. ,1,RussianGermanEnglish,English,TPM,,2,1,,2,52,0.04,0.04
+15,Westergaard et al.,EX,2017,Crosslinguistic influence in the acquisition of a third language: The Linguistic Proximity Model. ,1,NorwegianRussian,English,LPM,VerbsecondSubjectAuxiliaryInversion,2,1,GJT,2,60,0.26,0.26
+15,Westergaard et al.,C,2017,Crosslinguistic influence in the acquisition of a third language: The Linguistic Proximity Model. ,1,NorwegianRussian,English,LPM,,2,1,,2,50,0.25,0.25
+16,Jensen et al.,EX,2021,Crosslinguistic influence in L3 acquisition across linguistic modules. ,1,NorwegianRussian,English,LPMSM,VerbSecondWordOrder,2,1,AJT,1,164,0.2,0.2
+16,Jensen et al.,C,2021,Crosslinguistic influence in L3 acquisition across linguistic modules. ,1,NorwegianRussian,English,LPMSM,,2,1,,1,31,0.17,0.17
+17,Lloyd et al.,EX,2017,Transfer into L3 English: Global accent in German-dominant heritage speakers of Turkish. ,1,GermanTurkishHeritage,English,TPM,EnglishAccent,N/A,3,Interview,1,18,0.51,0.51
+17,Lloyd et al.,C,2017,Transfer into L3 English: Global accent in German-dominant heritage speakers of Turkish. ,1,GermanTurkishHeritage,English,TPM,,N/A,3,,1,10,0.5,0.5
+18,CabreliAmaro,EX,2015,The relationship between L3 transfer and structural similarity across development: Raising across an experiencer in Brazilian Portuguese. ,1,EnglishSpanish,BrazilianPortogues,TPM,SubjectToSubjectRaising,N/A,3,GJT,1,20,0.34,0.34
+18,CabreliAmaro,C,2015,The relationship between L3 transfer and structural similarity across development: Raising across an experiencer in Brazilian Portuguese. ,1,EnglishSpanish,BrazilianPortogues,TPM,,N/A,3,,1,33,0.3,0.3
+19,Polinsky,EX,2015,When L1 becomes an L3: Do heritage speakers make better L3 learners? ,1,varies,HeritageLanguageLearners,L2SF,Varies,N/A,3,NA,1,35,0.29,0.29
+19,Polinsky,C,2015,When L1 becomes an L3: Do heritage speakers make better L3 learners? ,1,varies,HeritageLanguageLearners,L2SF,,N/A,3,,1,18,0.28,0.28
+20,Jabbari et al.,EX,2018,Acquisition of L3 French wh-question structure by Persian-English bilinguals.,1,PersianEnglish,French,PLCM,Whquestions,N/A,3,GJT,2,51,0.38,0.38
+20,Jabbari et al.,C,2018,Acquisition of L3 French wh-question structure by Persian-English bilinguals.,1,PersianEnglish,French,PLCM,,N/A,3,,2,20,0.38,0.38
+21,Santos,EX,2013,Cross-linguistic influence in the acquisition of Brazilian Portuguese as a third language. ,2,SpanishEnglish,BrazilianPortogues,TPM,DativeAlternation,4,3,GJTOPTAJT,1,38,0.33,0.33
+21,Santos,C,2013,Cross-linguistic influence in the acquisition of Brazilian Portuguese as a third language. ,2,SpanishEnglish,BrazilianPortogues,TPM,,4,3,,1,24,0.32,0.32
+22,Diaubalick et al.,EX,2020,Influence of L1/L2 linguistic knowledge on the acquisition of L3 Spanish past tense morphology among L1 German speakers. ,1,GermanRomanceLanguages,Spanish,TPM,PastTenseMarking,4,3,Forcedchoice,1,73,0.14,0.14
+22,Diaubalick et al.,C,2020,Influence of L1/L2 linguistic knowledge on the acquisition of L3 Spanish past tense morphology among L1 German speakers. ,1,GermanRomanceLanguages,Spanish,TPM,,4,3,,1,149,1.2,1.2
+23,Dehghani&Jabbari,EX,2014,The Acquisition of relative clause constructions by Persian native speakers of English (L2) and French (L3). ,1,PersianEnglish,French,L2SFCEM,RelativeClauses,4,3,GJTTranslation,1,20,0.32,0.32
+23,Dehghani&Jabbari,C,2014,The Acquisition of relative clause constructions by Persian native speakers of English (L2) and French (L3). ,1,PersianEnglish,French,L2SFCEM,,4,3,,1,20,0.32,0.32
+24,Khezri et al.,EX,2020,Acquisition of English Auxiliary Stranding Constructions by Persian EFL Learners. ,1,PersianEnglish,French,L1Transfer,AuxiliaryStranding,4,3,TranslationAJT,1,30,0.58,0.26
+24,Khezri et al.,C,2020,Acquisition of English Auxiliary Stranding Constructions by Persian EFL Learners. ,1,PersianEnglish,French,L1Transfer,,4,3,,1,30,0.26,0.26
+25,Giancasporo et al.,EX,2014,Transfer at the initial stages of L3 Brazilian Portuguese: A look at three groups of English/Spanish bilinguals. ,1,EnglishSpanish,BrazilianPortogues,TPM,DifferentialObjectMarking,4,3,GJT,1,43,0.45,0.45
+25,Giancasporo et al.,C,2014,Transfer at the initial stages of L3 Brazilian Portuguese: A look at three groups of English/Spanish bilinguals. ,1,EnglishSpanish,BrazilianPortogues,TPM,,4,3,,1,10,0.4,0.4
+26,BenAbbes,EX,2016,The acquisition of French morpho-syntactic properties: Cross-linguistic Influence in the Learning of L3 French by Turkish/Spanish speakers who learned English as an L2 ,2,SpanishTurkishEnglish,French,PSP,GenderNumberConcordDefinitenesSpecificityVerbRaising,4,3,Translation,1,22,0.34,0.34
+26,BenAbbes,C,2016,The acquisition of French morpho-syntactic properties: Cross-linguistic Influence in the Learning of L3 French by Turkish/Spanish speakers who learned English as an L2 ,2,SpanishTurkishEnglish,French,PSP,,4,3,,1,16,0.32,0.3
+27,Sokolova&Plisov,EX,2019,Cross-linguistic transfer classroom L3 acquisition in university setting.,1,RussianFrenchGermanEnglish,English,SMLPM,NegativesNasality,4,3,WrittenProductionOralProductionPronunciation,1,27,0.47,0.47
+27,Sokolova&Plisov,C,2019,Cross-linguistic transfer classroom L3 acquisition in university setting.,1,RussianFrenchGermanEnglish,English,SMLPM,,4,3,,1,10,0.22,0.4
+28,Clements&Dominguez,EX,2018,Testing the predictions of the Scalpel Model in L3/Ln acquisition.,1,EnglishSpanish,Chinese,SM,NullOvertSubject,4,3,"WrittenProduction,PronounInterpretation",1,25,0.32,0.32
+28,Clements&Dominguez,C,2018,Testing the predictions of the Scalpel Model in L3/Ln acquisition.,1,EnglishSpanish,Chinese,SM,,4,3,,1,20,0.03,0.32
+29,Berkes&Flynn,EX,2012,Further evidence in support of the Cumulative-Enhancement Model. ,1,GermanHungarian,English,CEM,RelativeClauses,4,3,ElicitedImmitation,1,42,0.22,0.22
+29,Berkes&Flynn,C,2012,Further evidence in support of the Cumulative-Enhancement Model. ,1,GermanHungarian,English,CEM,,4,3,,1,36,0.01,0.22
+30,Kim ,EX,2024,"Crosslinguistic influence in bilingual morphosyntactic processing: Effects of language-common, language-contrasting, and language-specific information. ",1,Chinese/Japanese,Korean,L2SF,NP-NQ agreement ,4,3,self-paced reading/AJT,1,24,0.03,0.03
+30,Kim ,C,2024,"Crosslinguistic influence in bilingual morphosyntactic processing: Effects of language-common, language-contrasting, and language-specific information. ",1,Chinese/Japanese,Korean,L2SF,,4,3,,1,24,0.22,0.03
+31,Luan et al. ,EX,2024,The effect of previously acquired languages on third language acquisition. ,1,JapaneseEnglish,Chinese,LPM,RelativeClauses,4,3,GJT,1,100,0.2,0.2
+31,Luan et al. ,C,2024,The effect of previously acquired languages on third language acquisition. ,1,JapaneseEnglish,Chinese,LPM,,4,3,,1,27,0.01,0.01
